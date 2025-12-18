@@ -1,5 +1,5 @@
 # Event-Invitation
-# Invito - Invitation Platform
+## Invito - Invitation Platform
 
 **Invito** is a sleek and responsive web application designed for discovering, personalizing, and sending event invitations. Users can browse various categories—from weddings and baby showers to cocktail parties—and find the perfect design to send via text or email.
 
